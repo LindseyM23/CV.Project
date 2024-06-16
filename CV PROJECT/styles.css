@@ -1,0 +1,207 @@
+body{
+    background-color: #edc9a6;
+}
+#profile-pic{
+    border-radius: 250px;
+    float: left;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin: 25px;
+    }
+.Full-name{
+    padding: 116px 100px;
+    border-radius: 90px;
+    font-size: 46px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    font-style:normal;
+    box-shadow:20px 30px 10px 10px #37434c;
+    margin-right: 30px;
+}
+.profession{
+    margin-top: -140px;
+    font-size: 25px;
+   
+
+}
+.sections{
+    padding-top: 80px;
+    margin: 30px 30px;
+    margin-left: 5%;
+   
+}
+h1{ 
+    font-size: 40px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: normal;
+    font-style:normal;
+    background-color: #435868;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 2px;
+    top: 10px;
+    bottom: 60px;
+    margin-bottom: 50px;
+    box-shadow: 12px 12px 18px 10px#37434c;
+    margin-right: 100px;
+    margin-left: 100px;
+    text-align: center; 
+    position: sticky;
+    top: 10px;
+    bottom: 40px;
+}
+    .footer-button:hover{
+        background-color: #edc9a6;
+        color:white;
+    
+    }
+
+h3{
+    background-color: bisque;
+    font-weight: 200;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 10px 1px;
+    text-align: center;
+    width: 50%;
+
+    
+}
+.job-comapny{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 18px;
+}
+.job-duration{
+    font-family:'Times New Roman', Times, serif;
+    font-weight:lighter;
+    font-style: italic;
+   
+}
+.list{
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+table{
+    border-collapse: collapse;
+}
+.ed-symbol{
+    text-align: center;
+
+}
+thead,th,td,tr{
+    border: 4px solid #37434c;
+    padding: 10px 5px;
+   font-size: 100%;
+    text-align: center;
+}
+th{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
+}
+.table-data{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
+.pictures{
+    float: left;
+    padding:10px 10px;
+    background-color: #37434c;
+    margin-right: 20px;
+
+}
+h2{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:40px;
+}
+li{
+
+list-style-type:square;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: 25px;
+margin: 30px;
+}
+
+.proficiencies{
+    border-radius: 100px;
+    display: table;
+    margin: 60px 80px 20px 60px;
+    margin-right: 40px;
+    margin-top: 30px;
+    padding: 40px 40px;  
+    border: 2px dashed #37434c;
+}
+em{
+    opacity: 80%;
+    list-style-type: none;
+}
+.achivements{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 40px;
+    padding-top: 20px;
+}
+.cert{
+    display: block;
+    margin-left: auto;
+  margin-right: auto;
+  box-shadow: 10px 10px 5px 5px black;
+
+}
+.images{
+    float: left;
+    width: 33,33%;
+    padding: 20px;
+    margin: 40px 40px;
+    box-shadow: 8px 8px 17px black;
+    text-align: center;
+}
+.projects{
+    content:"";
+    clear: both;
+    display: table;
+    text-align: center;
+    margin: 20px 130px;
+}
+
+a{
+    font-size: 20px;
+    color:#37434c;
+    text-decoration: none;
+    text-align: center;
+}
+a:hover{
+    color:linen;
+}
+
+.links{
+    text-align: center;
+}
+
+.footer-button{
+    background-color: #37434c;
+    border-color: #37434c;
+    border-radius: 10px;
+    transition-duration: 1s;
+    margin-left: 20px;
+    display: inline; 
+    margin-right: 30px; 
+}
+
+.footer-button:hover{
+    background-color: #edc9a6;
+    color:white;
+
+}
+
+.get-in-touch{
+    padding: 25px;
+    font-size: 25px;
+    text-align: center; 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.footer{
+    text-align: center;
+}
+
